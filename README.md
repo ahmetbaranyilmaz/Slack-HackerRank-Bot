@@ -1,2 +1,2 @@
 # Slack-HackerRank-Bot
-belirtilen nicklerin hackerRank profil detaylarini slack'e mesaj olarak gonderen uygulama
+Belirtilen nicklerin HackerRank Python bilgilerini cekip Slack'e mesaj atan bot.
